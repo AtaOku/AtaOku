@@ -1,42 +1,67 @@
-# Hey, I'm Ata 👋
+# Ata Okuzcuoglu
 
-I'm the kind of person who sees a tool and immediately wants to know what's behind it.
+**Marketing Technology × AI** — TU Munich MSc (final semester) · Munich, Germany
 
-I'm finishing my **MSc in Management & Technology** at TU Munich — Marketing major, Computer Science minor. Before that, a double major in **Business Administration & Law** at Koç University, focused on intellectual property. I apparently couldn't pick just one field, so I picked three.
-
-Currently exploring the space where **marketing meets AI meets compliance** — building tools that apply classical AI techniques to real marketing problems, and writing a thesis on how AI trade secrets fit into the EU legal framework.
-
-## 🔨 What I'm Building
-
-**[MarTech × AI Portfolio](https://csp-campaign-planner.streamlit.app)** — A series of projects that take algorithms from my TUM AI course and apply them to marketing challenges I've actually encountered at work:
-
-- 🎯 **CSP Campaign Planner** — Constraint satisfaction for campaign scheduling *(live)*
-- 📊 **Bayesian Purchase Predictor** — Probabilistic customer decision modeling *(next)*
-- 🔄 **HMM Customer Lifecycle** — Hidden state tracking for churn prediction *(planned)*
-- 💰 **MDP Dynamic Pricing** — Optimal pricing via value iteration *(planned)*
-- 🔍 **A* Influencer Optimizer** — Informed search for influencer selection *(planned)*
-- ⚖️ **Logic Campaign Engine** — Rule-based compliance checking *(planned)*
-
-## 🧰 Things I Work With
-
-**Marketing & Analytics:** GA4 · GTM · Looker Studio · Tableau · BigQuery · HubSpot · Semrush  
-**AI & Code:** Python · SQL · Java · OR-Tools · Pandas · ML/NLP basics  
-**Paid Channels:** Google Ads · Meta Ads · TikTok Ads · Programmatic  
-**Legal/Compliance:** EU AI Act · GDPR · Trade Secrets Directive · IP Law
-
-## 📍 Previously
-
-- **Infineon Technologies** — Marketing Analyst (AI agents, automation, dashboards)
-- **IUS Startup** — Co-Founder (AI-based IP monitoring)
-- **Digital Pals** — Growth Specialist (multi-channel campaigns, GA4, HubSpot)
-
-## 🤙 Let's Connect
-
-I'm always curious to meet people who sit at similar intersections — whether that's MarTech, AI engineering, or tech policy. Don't hesitate to reach out.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ataokuzcuoglu)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ata.okuzcuoglu@tum.de)
+I kept asking: *what if every marketing decision could be formalized as an AI problem?*  
+So I built the answer — one technique at a time.
 
 ---
 
-*Based in Munich · Languages: English (C2) · German (B2) · Turkish (C2)*
+## Marketing OS — Live Portfolio
+
+A unified intelligence platform where each project solves a real marketing problem using a classical AI technique from my TUM curriculum. Not academic demos — tools real teams would use.
+```
+PLAN (CSP) → CREATE (ContentEngine) → ANALYZE (Bayesian + Journey) → OPTIMIZE (MDP planned)
+                         ↑
+              INTELLIGENCE (Competitor Intel)
+                         ↓
+              COMPLIANCE (Logic Engine planned)
+```
+
+### ✅ Live Projects
+
+| Project | Problem | AI Technique | Stack |
+|---|---|---|---|
+| [🧠 Journey Intelligence Engine](https://journey-intelligence-engine.vercel.app) | Which steps kill conversion — and why? | Markov chains · Value iteration · Absorbing chain | React 19 · D3 · TypeScript · Vercel |
+| [🔍 Competitor Intel Monitor](https://competitor-intel-monitor.netlify.app) | Turn competitor pain into content opportunities | Multi-source signal pipeline · LLM classification | React · TypeScript · Claude API · Netlify |
+| [📦 Return Root Cause Diagnosis](https://bayesian-marketing-attribution-model.streamlit.app) | Why did the customer return? (without asking them) | Bayesian Networks · Noisy-OR · Backward inference | Python · NumPy · Streamlit |
+| [📅 CSP Campaign Planner](https://csp-campaign-planner.streamlit.app) | Build a quarterly campaign calendar that satisfies 14 constraints | Constraint Satisfaction · CP-SAT · Backtracking | Python · OR-Tools · Plotly |
+| [✍️ ContentEngine AI](https://contentengine-v6.vercel.app) | Raw signal → 5 channel-native content drafts in <60 seconds | Structured prompt chaining · Batch pipeline | React · TypeScript · Vite · Vercel |
+
+---
+
+## Background
+
+- **MSc Management & Technology** · TU Munich — Marketing major, CS minor
+- **BA Business Admin & Law** · Koç University — IP specialization
+- **Infineon Technologies** (2024–2025) — Marketing Analyst: AI agents, GA4/GTM, Tableau/Looker dashboards, automation workflows
+- **IUS Startup** (2024–2025) — Co-Founder: AI-based IP monitoring platform
+- **Languages:** English C2 · German B2 · Turkish C2
+
+## Technical Intersection
+```
+Law (IP / GDPR / EU AI Act)  ×  AI Foundations (CSP, Bayes, HMM, MDP, Logic)  ×  Marketing Operations
+```
+
+This combination is what I keep finding useful — and hard to find elsewhere.
+
+---
+
+## What's Next
+
+- **Project 6: MDP Optimal Contact Policy** — state-dependent email cadence via value iteration
+- **Project 7: Logic-Based Compliance Engine** — GDPR + EU AI Act as propositional logic + forward chaining
+
+---
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/GA4-E37400?style=flat&logo=google-analytics&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HubSpot-FF7A59?style=flat&logo=hubspot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"/>
+</p>
+
+📬 [LinkedIn](https://linkedin.com/in/ataokuzcuoglu) · 📂 [Notion Portfolio](https://notion.so/30ffeccf87108174a30cd60449aebaf3)
